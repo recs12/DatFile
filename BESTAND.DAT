@@ -1,0 +1,47 @@
+*****************************************************************************
+*                                                                           *
+*      File :            BESTAND.DAT                                        *
+*      Date :            Wed 21 Apr 2021 08:28:08                           *
+*                                                                           *
+*****************************************************************************
+
+-----------------------------------------------------------------------------
+|Loc. |Pal.|Pal.|  Pal.   |Ind|Stck|   Stock Ident No.   |Sheet|Quantity |R |
+|     |Type| No.| Status  |   |Type|                     |incom|         |  |
+-----------------------------------------------------------------------------
+ 0001  ---   ---  ---     
+ 0002  SP    103  Ok        1  BT   STEEL_COM_11G_5X10      0    17.0 pc    
+ 0101  SP    101  Ok        1  BT   STEEL_COM_16G_5X10      0    10.0 pc    
+ 0102  SP    102  Ok        1  BT   STEEL_COM_11G_5X10      0    25.0 pc    
+ 0103  ---   ---  ---     
+ 0104  SP    104  Ok        1  BT   STEEL_44W_0.187_5X10    0    13.0 pc    
+ 0105  SP    105  Ok        1  BT   STEEL_44W_0.187_5X10    0    17.0 pc    
+ 0106  SP    106  Ok        1  BT   STEEL_FLR_0.187_5X10    0     8.0 pc    
+ 0107  SP    107  Ok        1  BT   STEEL_44W_0.250_5X10    0    13.0 pc    
+ 0108  SP    108  Ok        1  BT   STEEL_44W_0.250_5X10    0    12.0 pc    
+ 0109  SP    109  Ok                                                        
+ 0110  SP    110  Ok        1  BT   STEEL_44W_0.375_5X10    0     3.0 pc    
+ 0111  SP    111  Ok        1  BT   STEEL_44W_0.500_5X10    0     1.0 pc    
+ 0112  SP    112  Ok        1  BT   STEEL_44W_0.750_5X10    0     1.0 pc    
+ 0113  SP    113  Ok        1  BT   STEEL_COM_14G_5X10      0    10.0 pc    
+ 0114  SP    114  Ok        1  BT   STEEL_COM_10G_5X10      0     6.0 pc    
+ 0115  SP    115  Ok        1  BT   STEEL_44W_1.000_4X8     0     3.0 pc    
+ 0116  SP    116  Ok        1  BT   STEEL_44W_0.625_5X10    0     3.0 pc    
+ 0117  SP    117  Ok        1  BT   STEEL_44W_0.250_5X10    0     5.0 pc    
+ 0118  SP    118  Ok        1  BT   SS_304_16G_no4_5x10     0     2.0 pc    
+ 0119  SP    119  Ok        1  BT   SS_304_11g _no4_5x10    0    10.0 pc    
+ 0120  SP    120  Ok        1  BT   SS_304_16G_5X10         0     4.0 pc    
+ 0121  SP    121  Ok        1  BT   SS_304_11G_5X10         0    10.0 pc    
+ 0122  SP    122  Ok        1  BT   SS 304 2B 0.187 5X10    0     5.0 pc    
+ 0123  SP    123  Ok        1  BT   SS_304_0.250_5X10       0     1.0 pc    
+ 0124  SP    124  Ok        1  BT   SS_304_0.500_4X10       0     1.0 pc    
+ 0125  SP    125  Ok        1  BT   SS_304_0.375_5X10       0     2.0 pc    
+ 0126  SP    126  Ok        1  BT   SS_304_0.500_5X10       0     2.0 pc    
+ 0127  SP    127  Ok        1  BT   SS_304_14G_5X10         0     3.0 pc    
+ 0128  SP    128  Ok        1  BT   SS_316_16G_4X8          0     1.0 pc    
+ 0129  SP    129  Ok        1  BT   SS_304_0.187_no4_5X10   0    12.0 pc    
+ 0130  SP    130  Ok        1  BT   SS_304_0.250_no4_5X10   0     9.0 pc    
+ 0131  SP    131  Ok        1  BT   STEEL_GALV_11G_4X10     0     4.0 pc    
+ 0132  SP    132  Ok        1  BT   STEEL_44W_1.000_5X10    0     2.0 pc    
+ 0199  ---   ---  ---     
+ 0299  ---   ---  ---     
